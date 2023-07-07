@@ -8,4 +8,7 @@ func main() {
 	if food := "Chocolate"; b {
 		fmt.Println(food) // Chocolate
 	}
+	// Note: init statement error invalid code
+	//fmt.Println(food)
+
 }
